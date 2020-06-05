@@ -16,7 +16,8 @@
     '617228060': {'name': '飞来岛|清远永安'},
 
     '38749903': {'name': '宝墩湖|粤游<@sunny.lee@himudidi.com>'},
-    '49951305': {'name': '宝墩湖1|粤游<@sunny.lee@himudidi.com>'},
+    '45909535': {'name': '宝墩湖|深圳行舟<@sunny.lee@himudidi.com>'},
+    '41532595': {'name': '宝墩湖|粤之行<@sunny.lee@himudidi.com>'},
     '620343683': {'name': '宝墩湖|林叔叔<@sunny.lee@himudidi.com>'},
     '54580904': {'name': '宝墩湖|温泉之家<@sunny.lee@himudidi.com>'},
 
